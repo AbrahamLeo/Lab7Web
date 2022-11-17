@@ -44,13 +44,13 @@ Lalu di-refresh
 ### Predefine Variable $_GET
 Buatlah syntax seperti berikut
 ![Syntax](ss/11.png)
-http://localhost/lab7_php_dasar/predefine_variable.php?nama=Bram
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/predefine_variable.php?nama=Bram
 ![Hasil](ss/12.png)
 
 ### Membuat Form Input
 Buatlah syntax seperti berikut
 ![Syntax](ss/13.png)
-http://localhost/lab7_php_dasar/form_input.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/form_input.php
 ![Hasil](ss/14.png)
 Masukkan nama Anda
 ![Hasil](ss/15.png)
@@ -58,35 +58,35 @@ Masukkan nama Anda
 ### Operator
 Buatlah syntax seperti berikut
 ![Syntax](ss/16.png)
-http://localhost/lab7_php_dasar/operator.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/operator.php
 ![Hasil](ss/17.png)
 
 ### Kondisi If
 Buatlah syntax seperti berikut
 ![Syntax](ss/18.png)
-http://localhost/lab7_php_dasar/kondisi_if.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/kondisi_if.php
 ![Hasil](ss/19.png)
 
 ### Kondisi Switch
 Buatlah syntax seperti berikut
 ![Syntax](ss/20.png)
-http://localhost/lab7_php_dasar/kondisi_switch.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/kondisi_switch.php
 ![Hasil](ss/21.png)
 
 ### Perulangan For
 Buatlah syntax seperti berikut
 ![Syntax](ss/22.png)
-http://localhost/lab7_php_dasar/perulangan_for.php
+Kemudian untuk mengakses hasilnya melalui URL:http://localhost/lab7_php_dasar/perulangan_for.php
 ![Hasil](ss/23.png)
 
 ### Perulangan While
 Buatlah syntax seperti berikut
 ![Syntax](ss/24.png)
-http://localhost/lab7_php_dasar/perulangan_while.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/perulangan_while.php
 ![Hasil](ss/25.png)
 
 ### Perulangan Dowhile
 Buatlah syntax seperti berikut
 ![Syntax](ss/26.png)
-http://localhost/lab7_php_dasar/perulangan_dowhile.php
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/perulangan_dowhile.php
 ![Hasil](ss/27.png)
