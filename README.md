@@ -10,15 +10,15 @@ Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi por
 Menjalankan Web Server
 Untuk menjalankan web server dari menu XAMPP Control.
 ![Tab](ss/1.png)
-• Uji coba apakah server sudah berkerja dengan baik
+• Uji coba apakah server sudah berkerja dengan baik <br/>
 http://127.0.0.1 atau http://localhost
 ![Tab](ss/2.png)
-Tampil halaman utama XAMPP jika server sudah berkerja dengan baik.
-• Dokumen Website
+Tampil halaman utama XAMPP jika server sudah berkerja dengan baik.<br/>
+• Dokumen Website<br/>
 Semua file website tempatkan di direktori: \xampp\htdocs\
 ![Tab](ss/3.png)
-• Database MySQL
-Direktori: \xampp\mysql\
+• Database MySQL<br/>
+Direktori: \xampp\mysql\<br/>
 Manajemen database: http://localhost/phpmyadmin
 ![Tab](ss/4.png)
 
